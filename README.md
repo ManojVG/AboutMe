@@ -14,6 +14,3 @@ A passionate programmer who is interested in Problem Solving and Full Stack Soft
 
 Connect with me:
 LinkedIn: https://www.linkedin.com/in/ManojVG
-
-Languages and Tools:
-C++ with STL, C#, .NET, JS/TS, RERN, MEAN, ELK, Azure.
