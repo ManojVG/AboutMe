@@ -2,7 +2,7 @@ Hi there 👋,
 
 Hi 👋, I am Manoj V. Ghuge.
 
-A passionate programmer who is interested in Problem Solving and Full Stack Software Engieeering [Web, Mobile, Desktop, Cloud].
+A passionate programmer who is interested in Problem Solving and Software Engieeering.
 
 🌱 I’m aiming to pursue life time career in Software Engineering & Technology.
 
