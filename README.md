@@ -1,8 +1,8 @@
 Hi there 👋,
 
-I am Manoj Vishnu Ghuge.
+👨 I am Manoj Vishnu Ghuge.
 
-A passionate programmer who is interested in Problem Solving and Software Engieeering.
+💻 A passionate programmer who is interested in Problem Solving and Software Engieeering.
 
 🌱 I’m aiming to pursue life time career in Software Engineering & Technology.
 
