@@ -1,6 +1,6 @@
 Hi there 👋,
 
-Hi 👋, I am Manoj V. Ghuge.
+I am Manoj Vishnu Ghuge.
 
 A passionate programmer who is interested in Problem Solving and Software Engieeering.
 
