@@ -6,7 +6,7 @@ Hi there 👋,
 
 🌱 I’m aiming to pursue life time career in Software Engineering & Technology.
 
-💬 Ask me about: Problem Solving and Full Stack Software Engieeering.
+💬 Ask me about: Problem Solving Using Software Engieeering.
 
 📫 How to reach me: MVG9966@GMAIL.COM
 
